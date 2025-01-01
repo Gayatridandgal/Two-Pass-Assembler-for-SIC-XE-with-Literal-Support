@@ -1,0 +1,5 @@
+Literal		Address	Size	Pool
+--------------------------------
+=C'EOF'        	002A	3	0
+=X'1F'         	103F	1	1
+=C'HELLO'      	1040	5	1
