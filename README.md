@@ -13,8 +13,8 @@ This project implements a two-pass assembler for the **SIC/XE** architecture, wi
 ## Folder Format
 pass1.c and pass2.c //c codes
 ### Pass 1 
-Input Files: pass1_input_code.txt , pass1_optab.txt.
-Output Files: pass1_littab.txt ,pass1_symtab.txt , pass1_intermediate_code.txt.
+- Input Files: pass1_input_code.txt , pass1_optab.txt.
+- Output Files: pass1_littab.txt ,pass1_symtab.txt , pass1_intermediate_code.txt.
 
 ---
 
